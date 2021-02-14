@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Dialog_light" parent="Base.Theme.AppCompat.Dialog">
+        <item name="android:colorBackground">@color/colorPrimary</item>
+        <item name="colorBackgroundFloating">@color/colorPrimary</item>
+        <item name="android:textColor">#34000000</item>
+        <item name="android:colorBackgroundFloating">#34000000</item>
+        <item name="android:textColorLink">#34000000</item>
+    </style>
+
+
+</resources>
